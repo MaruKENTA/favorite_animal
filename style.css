@@ -1,8 +1,12 @@
 body {
-    color: orange;
     background-color: black;
 }
 
+h3 {
+    color: orangered;
+}
+
 p {
+    color: orange;
     font-size: 15px;
 }
